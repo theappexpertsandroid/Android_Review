@@ -14,7 +14,7 @@ Feel free to suggest any 3rd party libraries or tools.
 
 Steps to reproduce the issues:
 
-1 Import project in Android Studio
+1 Import project in Android Studio '\n'
 2 Run the application
 
 ISSUE 1:
