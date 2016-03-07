@@ -18,12 +18,12 @@ Steps to reproduce the issues:
 2 Run the application
 
 ISSUE 1:
-3 When the application is launched, a dialog box would be displayed to choose option from download or local copy
+When the application is launched, a dialog box would be displayed to choose option from download or local copy
 3.1 Click on download option
 3.2 The application crashes out (Issue 1 to be fixed)
 
 ISSUE 2:
-4 When the application is launched, a dialog box would be displayed to choose option from download or local copy; 
+When the application is launched, a dialog box would be displayed to choose option from download or local copy; 
 3.1 Click on download option (once issue 1 is fixed)
 3.2 The application displays data from API but the images are loaded as bitmaps (fix this issue)
 
